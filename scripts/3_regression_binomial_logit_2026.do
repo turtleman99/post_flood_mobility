@@ -1,7 +1,7 @@
 /*******************************************************************************
 * Script 3 -- Binomial logistic regressions
-* Socioeconomic Gradients in Post-Flood Mobility:
-* Evidence from Two Secondary Cities in Monsoon Asia
+* Neighborhood Deprivation Shapes Post-Flood Population Losses
+* in Pune and Bandung
 *
 * Reproduces: Table 1, Table 2, Appendix Tables A1-A5
 *

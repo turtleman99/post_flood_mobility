@@ -1,7 +1,7 @@
 # scripts/
 
-This directory implements the pipeline behind *Socioeconomic Gradients in
-Post-Flood Mobility: Evidence from Two Secondary Cities in Monsoon Asia*, for
+This directory implements the pipeline behind *Neighborhood Deprivation
+Shapes Post-Flood Population Losses in Pune and Bandung*, for
 the two events analyzed in the paper: NASA/DFO Global Flood Archive IDs
 **4775 (Pune)** and **4859 (Bandung)**. All clustering is at **k = 2**.
 
